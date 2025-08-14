@@ -1,4 +1,4 @@
-# Day-9 
+# Day 8 
 # Program 1 - Replace all even numbers in a list with their squares
 
 numbers = [2, 5, 8, 3, 10, 7]
