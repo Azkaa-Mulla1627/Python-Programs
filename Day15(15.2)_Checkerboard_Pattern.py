@@ -1,3 +1,4 @@
+# Day 15
 # Program 2 - Program to print a checkerboard pattern using stars
 
 rows = 6
