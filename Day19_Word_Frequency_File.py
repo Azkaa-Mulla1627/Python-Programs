@@ -1,7 +1,7 @@
 # Day 19
 # Program : To count word frequency in a text file
 
-def word_frequency(filename):
+def word_frequency(sample):
     freq = {}
     try:
         with open(filename, "r") as file:
