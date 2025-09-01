@@ -1,0 +1,4 @@
+Python is fun.
+I love learning new things with Python.
+File handling in Python is powerful.
+Learning step by step makes coding easy.
